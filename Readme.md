@@ -45,6 +45,17 @@ $$
 B_n = \frac{2}{n\pi L} \int_0^L \cos(x) \sin\left(\frac{n\pi x}{L}\right) dx
 $$
 
+## 3. Wave equation with external disturbances
+![image](https://github.com/user-attachments/assets/d638d389-b3a8-418b-8a5a-e1cc2a241d84)
+
+## 4. Euler Beam equation
+![image](https://github.com/user-attachments/assets/cbbe40a3-1654-47c3-bd12-37571621f54a)
+
+assume:
+ϕ(x)=sin⁡(πx/L)
+and
+ψ(x)=0
+
 Resources:   
 1.  [Physics Informed Deep Learning](https://arxiv.org/abs/1711.10561v1)
 
