@@ -1,5 +1,5 @@
-## Deep Learning Methods in Fluid Dynamics
-<a href="https://www.iitg.ac.in/swaroop/studsup.html#:~:text=Deep%20learning%20Methods%20in%20Fluid%20Dynamics"> BTP</a>(B.Tech Project) under **Professor <a href="https://www.iitg.ac.in/swaroop/">Swaroop</a> Nandan Bora** Sir
+## Solving Partial Differntial Equations using Deep Learning
+<a href="https://www.iitg.ac.in/swaroop/studsup.html#:~:text=Deep%20learning%20Methods%20in%20Fluid%20Dynamics"> BTP</a>(B.Tech Project) under Professor <a href="https://www.iitg.ac.in/swaroop/">Swaroop Nandan Bora</a> Sir
 
 ## 1. Solving Burger equation with deep learning method.
 see [burger.ipynb](https://github.com/Upeshjeengar/Deep-learning-Methods-in-Fluid-Dynamics/blob/main/burger.ipynb)
